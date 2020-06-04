@@ -10,6 +10,6 @@ class Dog
     bark 
   end 
     def bark 
-      puts "Woof!"
+      puts "woof!"
     end 
   end # Your code goes here!
